@@ -18,7 +18,7 @@ function submitHandler()
     var ip = Number(initialPrice.value);
     var qty = Number(stockQuantity.value);
     var curr = Number(currentPrice.value);
-    if(ip == "" || qty == "" || curr == "" )
+    if(ip <= "0" || qty <= "0" || curr <= "0" )
     {
         showOutput(`Please enter valid Inputs`);
        
