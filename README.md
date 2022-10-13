@@ -1,5 +1,7 @@
 <h2>MARK-14-Stock-Calculator</h2>
 
+<h3>built by using html5, css3, javascript</h3>
+
 
 <h4>Enter the initial price of the stock, numbers of stocks purchased, and the current price of stock
 The app will tell you the value of profit/loss and profit/loss percentage </h4>
